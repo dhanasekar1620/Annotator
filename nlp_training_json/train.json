@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "content": "Dummy PDF file ",
+        "annotations": [
+            {
+                "content": "Dummy",
+                "start": 0,
+                "end": 5,
+                "tag_name": "Dummy"
+            }
+        ]
+    }
+]
